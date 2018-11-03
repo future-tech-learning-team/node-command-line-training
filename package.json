@@ -1,6 +1,6 @@
 {
   "name": "command-line-training",
-  "version": "1.0.0",
+  "version": "1.0.2-beta.1",
   "description": "node-command-line-training",
   "bin": {
     "test-cli": "lib/index.js"
@@ -21,5 +21,6 @@
   "homepage": "https://github.com/future-tech-learning-team/node-command-line-training#readme",
   "devDependencies": {
     "minimist": "^1.2.0"
-  }
+  },
+  "dependencies": {}
 }
