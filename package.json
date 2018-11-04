@@ -1,0 +1,29 @@
+{
+  "name": "shiyj-node-command-line",
+  "version": "1.0.0",
+  "description": "node-command-line-training",
+  "bin": {
+    "syj-cli": "lib/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "syjPublishBeta": "npm publish --tag=beta",
+    "syjLink": "npm link",
+    "syjView": "npm view shiyj-node-command-line",
+    "syjGlobPath": "npm prefix -g",
+    "syjNpmRemove": "npm unpublish shiyj-node-command-line --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/future-tech-learning-team/node-command-line-training.git"
+  },
+  "keywords": [
+    "node-command-line"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/future-tech-learning-team/node-command-line-training/issues"
+  },
+  "homepage": "https://github.com/future-tech-learning-team/node-command-line-training#readme"
+}
