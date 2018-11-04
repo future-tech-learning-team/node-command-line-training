@@ -1,6 +1,6 @@
 {
   "name": "shiyj-node-command-line",
-  "version": "1.0.0",
+  "version": "1.0.1-beta.1",
   "description": "node-command-line-training",
   "bin": {
     "syj-cli": "lib/index.js"
@@ -25,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/future-tech-learning-team/node-command-line-training/issues"
   },
-  "homepage": "https://github.com/future-tech-learning-team/node-command-line-training#readme"
+  "homepage": "https://github.com/future-tech-learning-team/node-command-line-training#readme",
+  "devDependencies": {
+    "minimist": "^1.2.0"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.0"
+  }
 }
