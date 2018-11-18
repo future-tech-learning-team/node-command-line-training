@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/node-command-line-training.iml" filepath="$PROJECT_DIR$/.idea/node-command-line-training.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/zhuhaiyu-lession-1.iml" filepath="$PROJECT_DIR$/.idea/zhuhaiyu-lession-1.iml" />
+>>>>>>> 795edac057d264183707194e6453df260af223ad
     </modules>
   </component>
 </project>

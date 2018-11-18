@@ -22,5 +22,9 @@
   "devDependencies": {
     "minimist": "^1.2.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "jae-dynamic-cli-demo": "^1.0.1",
+    "jae-node-command-line-add": "^1.0.3",
+    "shiyj-node-command-line-add": "^1.0.1"
+  }
 }
