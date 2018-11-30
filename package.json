@@ -1,6 +1,6 @@
 {
   "name": "shiyj-node-command-line",
-  "version": "1.0.5",
+  "version": "1.0.17",
   "description": "node-command-line-training",
   "bin": {
     "syj-cli": "lib/index.js"
